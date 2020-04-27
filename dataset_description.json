@@ -9,10 +9,9 @@
         "Chun-Ting Hsu",
         "Arthur Jacobs"
     ],
-    "Acknowledgements": "Jasmin Banaei and Bora Meraj helped with the preparation of the experiment. fMRI data acquisition was funded by the Cluster of Excellence Languages of Emotion, Freie Universit\u00e4t Berlin. FMMC was funded by an Einstein Visiting Fellowship awarded to Professor Adele Goldberg, in conjunction with the Cluster Languages of Emotion. Data analysis and further data collection for revision was funded by the Psychology Department, Lancaster University, UK.",
+    "Acknowledgements": "Jasmin Banaei and Bora Meraj helped with the preparation of the experiment. fMRI data acquisition was funded by the Cluster of Excellence Languages of Emotion, Freie Universität Berlin. FMMC was funded by an Einstein Visiting Fellowship awarded to Professor Adele Goldberg, in conjunction with the Cluster Languages of Emotion. Data analysis and further data collection for revision was funded by the Psychology Department, Lancaster University, UK.",
     "ReferencesAndLinks": [
-        "Citron, F.M.M., Cacciari, C., Funcke, J., Hsu, C.-T., Jacobs, A. (2019). Idiomatic expressions evoke stronger emotional responses in the brain than literal sentences. Neuropsychologia. Volume, pages, and DOI to be provided."
+        "Citron, F.M.M., Cacciari, C., Funcke, J.M., Hsu, C.-T., Jacobs, A. (2019). Idiomatic expressions evoke stronger emotional responses in the brain than literal sentences. Neuropsychologia, 131, 233-248. doi: 10.1016/j.neuropsychologia.2019.05.020"
     ],
-    "DatasetDOI": "10.18112/openneuro.ds002727.v1.0.0",
-    "License": "CC0"
+    "DatasetDOI": "10.18112/openneuro.ds001934.v1.0.2"
 }
